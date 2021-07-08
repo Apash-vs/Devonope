@@ -30,7 +30,7 @@
             } else {
                 $.firefly.offsetTop = 0; 
                 $.firefly.offsetLeft = 0; 
-                $.firefly.eleHeight = $(document.body).height();
+                $.firefly.eleHeight = $(document.body).height(); 
                 $.firefly.eleWidth = $(document.body).width(); 
             }
         });
